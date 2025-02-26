@@ -361,15 +361,6 @@ object {
     align-items: flex-start;
     gap: 2.5rem;
     align-self: stretch;
-    -webkit-transition: .15s all;
-    -o-transition: .15s all;
-    transition: .15s all;
-}
-
-.about-images:hover {
-    -webkit-transform: scale(1.05);
-    -ms-transform: scale(1.05);
-    transform: scale(1.05);
 }
 
 .about-images-column-1 {
@@ -388,6 +379,15 @@ object {
 
 .about-images-column-box img {
     border-radius: 1.25rem;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
+}
+
+.about-images-column-box img:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .mobile-app {
