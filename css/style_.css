@@ -277,12 +277,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-2.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-2 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-3 {
@@ -291,12 +295,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-3.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-3 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-4 {
@@ -305,12 +313,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-4.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-4 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-5 {
@@ -319,12 +331,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-5.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-5 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-6 {
@@ -333,12 +349,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-6.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-6 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-7 {
@@ -347,12 +367,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-7.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-7 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-box-8 {
@@ -361,12 +385,16 @@ object {
     flex-shrink: 0;
     background: url('../assets/img/coffee-8.png'), lightgray 50% / cover no-repeat;
     border-radius: 2.5rem;
-    background-size: 110%;
+    -webkit-transition: .15s all;
+    -o-transition: .15s all;
+    transition: .15s all;
     background-position: center;
 }
 
 .menu-grid-item:hover > .menu-grid-item-box-8 {
-    background-size: 100%;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .menu-grid-item-description {
